@@ -1,6 +1,6 @@
 # shinyei_dust_ardiuno
 
-Grove - Dust Sensor Demo v2.0
+Grove - Dust Sensor Demo v2.0\n
 Interface to Shinyei Model PPD42NS Particle Sensor
 Program originally by Christopher Nafis
 Written April 2012
