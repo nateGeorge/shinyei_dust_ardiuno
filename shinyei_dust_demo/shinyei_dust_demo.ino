@@ -1,19 +1,19 @@
-/* Grove - Dust Sensor Demo v2.0
- Interface to Shinyei Model PPD42NS Particle Sensor
- Program originally by Christopher Nafis 
- Written April 2012
- Updated by Nate George
- March 2015
- 
- http://www.seeedstudio.com/depot/grove-dust-sensor-p-1050.html
- http://www.sca-shinyei.com/pdf/PPD42NS.pdf
- http://www.howmuchsnow.com/arduino/airquality/grovedust/
- 
- 
- JST Pin 1 (Black Wire)  => Arduino GND
- JST Pin 3 (Red wire)    => Arduino 5VDC
- JST Pin 4 (Yellow wire) => Arduino Digital Pin 8
- 
+/* 
+Grove - Dust Sensor Demo v2.0
+Interface to Shinyei Model PPD42NS Particle Sensor
+Program originally by Christopher Nafis 
+Written April 2012
+Updated by Nate George
+March 2015
+
+http://www.seeedstudio.com/depot/grove-dust-sensor-p-1050.html
+http://www.sca-shinyei.com/pdf/PPD42NS.pdf
+http://www.howmuchsnow.com/arduino/airquality/grovedust/
+
+
+JST Pin 1 (Black Wire)  => Arduino GND
+JST Pin 3 (Red wire)    => Arduino 5VDC
+JST Pin 4 (Yellow wire) => Arduino Digital Pin 8
  */
 
 
